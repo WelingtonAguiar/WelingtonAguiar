@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WelingtonAguiar
-- 👀 I’m interested in ...aprender sobre as principais e mais utilizadas tecnologias do mercado, ferramentas, para desenvolver habilidades e competencias necessiaras tanto para 
+- 👀 I’m interested in ...aprender sobre as principais tecnologias do mercado e suas ferramentas, para desenvolver habilidades e competências necessárias tanto para 
 interesse pessoal como profissional.
 - 🌱 I’m currently learning ...HTML WEB Developers
 - 💞️ I’m looking to collaborate on ...projetos que apresentem desafios para que eu possa aprender, crescer e se desenvolver como programador.
